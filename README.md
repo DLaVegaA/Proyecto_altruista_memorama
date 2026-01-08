@@ -44,7 +44,7 @@ El proyecto sigue las mejores prácticas modernas de desarrollo Android:
 
 | Menú Principal | Juego 1 Jugador | Modo Versus (BT) |
 |:---:|:---:|:---:|
-| ![Menú Principal](ruta/a/tu/imagen_menu.jpg) | ![Juego Single](ruta/a/tu/imagen_juego.jpg) | ![Modo Versus](ruta/a/tu/imagen_versus.jpg) |
+| ![Menú Principal](IMG-20260108-WA0042.jpg) | ![Juego Single](IMG-20260108-WA0043.jpg) | ![Modo Versus](IMG-20260108-WA0044.jpg) |
 
 *(Nota: Reemplaza las rutas `ruta/a/tu/imagen...` con la ubicación real de tus imágenes en el repositorio)*
 

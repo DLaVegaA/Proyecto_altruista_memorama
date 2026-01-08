@@ -46,8 +46,6 @@ El proyecto sigue las mejores prácticas modernas de desarrollo Android:
 |:---:|:---:|:---:|
 | ![Menú Principal](IMG-20260108-WA0044.jpg) | ![Juego Single](IMG-20260108-WA0042.jpg) | ![Modo Versus](IMG-20260108-WA0043.jpg) |
 
-*(Nota: Reemplaza las rutas `ruta/a/tu/imagen...` con la ubicación real de tus imágenes en el repositorio)*
-
 ---
 
 ## 🚀 Instalación y Uso

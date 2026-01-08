@@ -32,7 +32,7 @@ El proyecto sigue las mejores prácticas modernas de desarrollo Android:
  * Sincroniza los archivos Gradle.
  * Ejecuta la app en un emulador o dispositivo físico.
 🤝 Créditos y Agradecimientos
-Desarrollado por: [Tu Nombre Completo]
+Desarrollado por: Anuar de la Vega Márquez
 Agradecimientos especiales:
  * A Fundación Kolping por permitirme realizar esta intervención educativa.
  * Al autor del código base original (Kevin Medina), cuya arquitectura sirvió como cimiento para esta adaptación educativa.
